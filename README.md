@@ -1,1 +1,3 @@
-# Project 1 Christian Lovetere U46489387 Submission 2
+# Stock-Data-Viewer
+
+Given a .csv file with stock data from Yahoo Finance, this solution will display the stock data as candlesticks, while maximizing readability and minimizing wasted space. The project uses MS Forms with .NET framework. The dataGridView and Chart elements are used to display the candlestick data in a numerically readable and visual format. The start and end date is pickable by the user and can be updated repeatedly to hone in on a specific time period of stock data. The project accepts all time periods for stock data, though the fileDialog only has filters for daily, weekly, and monthly data.
